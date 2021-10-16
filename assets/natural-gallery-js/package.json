@@ -1,0 +1,109 @@
+{
+  "_from": "@ecodev/natural-gallery-js@latest",
+  "_id": "@ecodev/natural-gallery-js@7.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-OZf+c0Ghzuk1eUlw/Aos/9PpEz6Ej1KuozRKN3Zr0KXpL2KR9kRJG84TXBUzJhU7xlSUYS6PBZ6QknItjsibWw==",
+  "_location": "/@ecodev/natural-gallery-js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ecodev/natural-gallery-js@latest",
+    "name": "@ecodev/natural-gallery-js",
+    "escapedName": "@ecodev%2fnatural-gallery-js",
+    "scope": "@ecodev",
+    "rawSpec": "latest",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ecodev/natural-gallery-js/-/natural-gallery-js-7.0.0.tgz",
+  "_shasum": "eb7fd958456e9f4902a64bb65b99b560d0778af3",
+  "_spec": "@ecodev/natural-gallery-js@latest",
+  "_where": "/Users/lbs/Sites/photo.11ty",
+  "author": {
+    "name": "Samuel Baptista",
+    "email": "samuel.baptista@ecodev.ch"
+  },
+  "bugs": {
+    "url": "https://github.com/Ecodev/natural-gallery-js/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A lazy load, infinite scroll, natural and masonry layout gallery",
+  "devDependencies": {
+    "@types/expect-puppeteer": "^3.3.1",
+    "@types/jest": "^24.0.18",
+    "@types/jest-environment-puppeteer": "^4.3.1",
+    "@types/puppeteer": "^1.19.1",
+    "autoprefixer": "^9.6.1",
+    "awesome-typescript-loader": "^5.2.1",
+    "concurrently": "^4.1.2",
+    "copy-webpack-plugin": "^5.0.4",
+    "css-loader": "^3.2.0",
+    "express": "^4.17.1",
+    "file-loader": "^4.2.0",
+    "identity-obj-proxy": "^3.0.0",
+    "image-webpack-loader": "^5.0.0",
+    "jest": "^24.9.0",
+    "jest-puppeteer": "^4.3.0",
+    "lodash": "^4.17.15",
+    "mini-css-extract-plugin": "^0.8.0",
+    "node-sass": "^4.12.0",
+    "optimize-css-assets-webpack-plugin": "^5.0.3",
+    "photoswipe": "^4.1.3",
+    "postcss-loader": "^3.0.0",
+    "puppeteer": "^1.19.0",
+    "sass-loader": "^7.3.1",
+    "source-map-loader": "^0.2.4",
+    "terser-webpack-plugin": "^1.4.1",
+    "ts-jest": "^24.0.2",
+    "tslint": "^5.18.0",
+    "typescript": "~3.5.3",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7",
+    "webpack-dev-middleware": "^3.7.1"
+  },
+  "homepage": "https://github.com/Ecodev/natural-gallery-js#readme",
+  "jsnext:main": "./natural-gallery.js",
+  "keywords": [
+    "gallery",
+    "image",
+    "images",
+    "slideshow",
+    "lightbox",
+    "zoom",
+    "list",
+    "autoload",
+    "lazyload",
+    "infinite",
+    "scroll",
+    "infinite scroll"
+  ],
+  "license": "MIT",
+  "main": "./natural-gallery.js",
+  "module": "./natural-gallery.js",
+  "name": "@ecodev/natural-gallery-js",
+  "peerDependencies": {
+    "photoswipe": "^4.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ecodev/natural-gallery-js.git"
+  },
+  "scripts": {
+    "build-lib": "webpack; webpack --docs",
+    "dev": "concurrently --kill-others \"webpack --watch\" \"webpack --watch --docs\" \"yarn run dev-docs\"",
+    "dev-docs": "cd docs; bundle exec jekyll serve --livereload",
+    "llink": "cd dist && (yarn unlink ; yarn link)",
+    "release": "yarn build-lib; cd dist; yarn publish --access public",
+    "serve": "node testing/server.js",
+    "test": "jest --runInBand --detectOpenHandles"
+  },
+  "types": "./natural-gallery.d.ts",
+  "typings": "./natural-gallery.d.ts",
+  "version": "7.0.0"
+}

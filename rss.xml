@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link href="https://sunpixel.photography/rss.xml" rel="self" type="application/rss+xml" />
+		<title>Sun Pixel</title>
+		<link>https://sunpixel.photography</link>
+		<description>Sun Pixel is a photography showcase of one photo enthusiast and occassional traveller. It brings you nice photos for your eyes, screens and prints.</description>
+		<language>en-us</language>
+		<copyright>Copyright 2021 Sun Pixel Photography</copyright>
+		<pubDate>Sun, 10 Oct 2021 12:34:56 GMT</pubDate>
+		<lastBuildDate>Invalid DateTime</lastBuildDate>
+		<generator>https://sunpixel.photography Site Generator</generator>
+		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+		<image>
+			<url>https://sunpixel.photography/media/app/sunpixel-logo-4096.webp</url>
+			<title>Sun Pixel</title>
+			<link>https://sunpixel.photography</link>
+		</image>
+		<item>
+			<guid isPermaLink="true">https://sunpixel.photography</guid>
+			<title></title>
+			<link>https://sunpixel.photography</link>
+			<description></description>
+			<comments>https://sunpixel.photography#comments</comments>
+			<pubDate>Sun, 10 Oct 2021 12:34:56 GMT</pubDate>
+		</item>
+	</channel>
+</rss>

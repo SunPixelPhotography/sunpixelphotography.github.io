@@ -1,0 +1,42 @@
+
+
+{
+	"short_name": "Sun Pixel",
+	"name": "Sun Pixel",
+	"description": "Sun Pixel is a photography showcase of one photo enthusiast and occassional traveller. It brings you nice photos for your eyes, screens and prints.",
+	"categories": ["photography"],
+	"lang": "en-US",
+	"icons": [
+		{
+			"src": "/media/app/sunpixel-app-icon-144.png",
+			"type": "image/png",
+			"sizes": "144x144",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/media/app/sunpixel-app-icon-180.png",
+			"type": "image/png",
+			"sizes": "180x180",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/media/app/sunpixel-app-icon-192.png",
+			"type": "image/png",
+			"sizes": "192x192",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/media/app/sunpixel-app-icon-512.png",
+			"type": "image/png",
+			"sizes": "512x512",
+			"purpose": "any maskable"
+		}
+	],
+	"scope": "https://sunpixel.photography/",
+	"start_url": "/?source=pwa",
+	"background_color": "#181818",
+	"theme_color": "#d89838",
+	"display": "standalone",
+	"orientation": "any"
+}
+
