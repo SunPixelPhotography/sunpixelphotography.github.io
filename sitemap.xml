@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 	<url>
-		<loc>https://sunpixel.photography/sitemap.xml</loc>
+		<loc>https://sunpixel.photography/rss.xml</loc>
 		<lastmod>2021-10-17</lastmod>
 	</url>
 	<url>
-		<loc>https://sunpixel.photography/rss.xml</loc>
+		<loc>https://sunpixel.photography/sitemap.xml</loc>
 		<lastmod>2021-10-17</lastmod>
 	</url>
 	<url>
@@ -613,46 +613,6 @@
 		<lastmod>2021-10-17</lastmod>
 	</url>
 	<url>
-		<loc>https://sunpixel.photography/amp/landscape/</loc>
-		<lastmod>2021-10-17</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/seascape/</loc>
-		<lastmod>2021-10-17</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/cityscape/</loc>
-		<lastmod>2021-10-17</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/nature/</loc>
-		<lastmod>2021-10-17</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/art/</loc>
-		<lastmod>2021-10-17</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/night/</loc>
-		<lastmod>2021-10-17</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/black-and-white/</loc>
-		<lastmod>2021-10-17</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/macro/</loc>
-		<lastmod>2021-10-17</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/people/</loc>
-		<lastmod>2021-10-17</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/still-life/</loc>
-		<lastmod>2021-10-17</lastmod>
-	</url>
-	<url>
 		<loc>https://sunpixel.photography/landscape/</loc>
 		<lastmod>2021-10-17</lastmod>
 	</url>
@@ -690,6 +650,46 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/still-life/</loc>
+		<lastmod>2021-10-17</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/landscape/</loc>
+		<lastmod>2021-10-17</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/seascape/</loc>
+		<lastmod>2021-10-17</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/cityscape/</loc>
+		<lastmod>2021-10-17</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/nature/</loc>
+		<lastmod>2021-10-17</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/art/</loc>
+		<lastmod>2021-10-17</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/night/</loc>
+		<lastmod>2021-10-17</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/black-and-white/</loc>
+		<lastmod>2021-10-17</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/macro/</loc>
+		<lastmod>2021-10-17</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/people/</loc>
+		<lastmod>2021-10-17</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/still-life/</loc>
 		<lastmod>2021-10-17</lastmod>
 	</url>
 	<url>
