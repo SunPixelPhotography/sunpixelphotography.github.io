@@ -7,7 +7,7 @@
 		<description>Sun Pixel is a photography showcase of one photo enthusiast and occassional traveller. It brings you nice photos for your eyes, screens and prints.</description>
 		<language>en-us</language>
 		<copyright>Copyright 2021 Sun Pixel Photography</copyright>
-		<pubDate>Sun, 10 Oct 2021 12:34:56 GMT</pubDate>
+		<pubDate>Mon, 18 Oct 2021 12:34:56 GMT</pubDate>
 		<lastBuildDate>Invalid DateTime</lastBuildDate>
 		<generator>https://sunpixel.photography Site Generator</generator>
 		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -22,7 +22,7 @@
 			<link>https://sunpixel.photography</link>
 			<description></description>
 			<comments>https://sunpixel.photography#comments</comments>
-			<pubDate>Sun, 10 Oct 2021 12:34:56 GMT</pubDate>
+			<pubDate>Mon, 18 Oct 2021 12:34:56 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
