@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 	<url>
 		<loc>https://sunpixel.photography/rss.xml</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/sitemap.xml</loc>
@@ -10,322 +10,646 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/search/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/404/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/404/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/sitemap/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/sitemap/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/privacy/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/privacy/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/sitemap/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/sitemap/</loc>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/art/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/beach/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/brac/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/brela/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/brick/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/bridge/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/budapest/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/buildings/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/butterfly/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/city/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/clouds/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/coast/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/coastline/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/croatia/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/daffodils/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/dawn/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/dusk/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/field/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/flowers/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/fog/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/garden/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/haag/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/hague/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/historical/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/holland/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/hungary/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/hvar/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/keukenhof/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/korcula/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/lavender/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/loviste/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/marco-polo/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/mediterranean/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/mermaid/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/moon/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/morning/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/mountains/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/netherlands/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/night/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/noordwijk/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/ondic/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/palace/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/peljesac/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/pier/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/podgora/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/rock/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/sail/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/sea/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/sea-mole/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/ship/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/shore/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/sky/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/slovak-karst/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/slovakia/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/statue/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/stone/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/summer/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/sun/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/sun-pixel/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/sunflower/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/sunpixel/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/sunset/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/town/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/troll/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/tulips/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/vacation/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/vyhne/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/water/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/waterfalls/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/waves/</loc>
-		<lastmod>2021-10-18</lastmod>
+		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/tag/window/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/art/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/beach/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/brac/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/brela/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/brick/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/bridge/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/budapest/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/buildings/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/butterfly/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/city/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/clouds/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/coast/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/coastline/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/croatia/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/daffodils/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/dawn/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/dusk/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/field/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/flowers/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/fog/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/garden/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/haag/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/hague/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/historical/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/holland/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/hungary/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/hvar/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/keukenhof/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/korcula/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/lavender/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/loviste/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/marco-polo/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/mediterranean/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/mermaid/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/moon/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/morning/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/mountains/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/netherlands/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/night/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/noordwijk/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/ondic/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/palace/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/peljesac/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/pier/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/podgora/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/rock/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sail/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sea/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sea-mole/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/ship/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/shore/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sky/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/slovak-karst/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/slovakia/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/statue/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/stone/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/summer/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sun/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sun-pixel/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sunflower/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sunpixel/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sunset/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/town/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/troll/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/tulips/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/vacation/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/vyhne/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/water/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/waterfalls/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/waves/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/window/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/landscape/</loc>
+		<lastmod>2021-10-18</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/seascape/</loc>
+		<lastmod>2021-10-18</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/cityscape/</loc>
+		<lastmod>2021-10-18</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/nature/</loc>
+		<lastmod>2021-10-18</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/art/</loc>
+		<lastmod>2021-10-18</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/night/</loc>
+		<lastmod>2021-10-18</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/black-and-white/</loc>
+		<lastmod>2021-10-18</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/macro/</loc>
+		<lastmod>2021-10-18</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/people/</loc>
+		<lastmod>2021-10-18</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/still-life/</loc>
 		<lastmod>2021-10-18</lastmod>
 	</url>
 	<url>
@@ -710,330 +1034,6 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/window-in-olive-oil-museum/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/art/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/beach/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/brac/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/brela/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/brick/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/bridge/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/budapest/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/buildings/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/butterfly/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/city/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/clouds/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/coast/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/coastline/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/croatia/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/daffodils/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/dawn/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/dusk/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/field/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/flowers/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/fog/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/garden/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/haag/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/hague/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/historical/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/holland/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/hungary/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/hvar/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/keukenhof/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/korcula/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/lavender/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/loviste/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/marco-polo/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/mediterranean/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/mermaid/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/moon/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/morning/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/mountains/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/netherlands/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/night/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/noordwijk/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/ondic/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/palace/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/peljesac/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/pier/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/podgora/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/rock/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/sail/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/sea/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/sea-mole/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/ship/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/shore/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/sky/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/slovak-karst/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/slovakia/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/statue/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/stone/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/summer/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/sun/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/sun-pixel/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/sunflower/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/sunpixel/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/sunset/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/town/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/troll/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/tulips/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/vacation/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/vyhne/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/water/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/waterfalls/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/waves/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/window/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/landscape/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/seascape/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/cityscape/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/nature/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/art/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/night/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/black-and-white/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/macro/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/people/</loc>
-		<lastmod>2021-10-18</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/still-life/</loc>
 		<lastmod>2021-10-18</lastmod>
 	</url>
 </urlset>
