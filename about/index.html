@@ -144,8 +144,8 @@ if (newPath != location.href) location.href = newPath;</script><title>About Sun 
 	"isPartOf": {
 		"@id": "http://website.sunpixel.photography"
 	},
-	"datePublished": "2021-10-19T02:20:43.752Z",
-	"dateModified": "2021-10-19T02:20:43.752Z",
+	"datePublished": "2021-10-19T08:33:54.042Z",
+	"dateModified": "2021-10-19T08:33:54.042Z",
 	"inLanguage": {
 		"@type": "Language",
 		"name": "English",
@@ -228,7 +228,7 @@ if (newPath != location.href) location.href = newPath;</script><title>About Sun 
 
 			$(function() {
 				/**  Tooltips  **/
-				$('[data-bs-toggle="tooltip"]').tooltip()
+				$('[data-bs-toggle="tooltip"]').tooltip();
 
 				/**  Search Box  **/
 				$('.lfo-search-button').on('click', function() {
@@ -259,6 +259,9 @@ if (newPath != location.href) location.href = newPath;</script><title>About Sun 
 				});
 
 				/**  FotoMoto  **/
+				let ftmtStoreID;
+				let ftmtProducts;
+
 				function ftmtShow(ftmtType) {
 					console.log('show: ' + ftmtType);
 					FOTOMOTO.API.showWindow(ftmtType, 'LFo_FotoMotoPhoto');
@@ -300,15 +303,15 @@ if (newPath != location.href) location.href = newPath;</script><title>About Sun 
 					}).join();
 					$('#LFo_FotoMotoButtons').html(ftmtHTML);
 				}
+				function waitForFotoMoto() {
+					if (typeof FOTOMOTO !== "undefined") {
+						initFotoMoto();
+					} else {
+						setTimeout(waitForFotoMoto, 100);
+					}
+				}
 
 				if ($('#LFo_FotoMotoPhoto').length > 0) {
-					function waitForFotoMoto() {
-						if (typeof FOTOMOTO !== "undefined"){
-							initFotoMoto();
-						} else {
-							setTimeout(waitForFotoMoto, 100);
-						}
-					}
 					waitForFotoMoto();
 				}
 			});</script><script defered type="text/javascript" src="//widget.fotomoto.com/stores/script/5d5311c4f36c6201829e1376a2ebac0e3dd4841a.js?api=true"></script><noscript>If Javascript is disabled in your browser, to place orders please visit the page where I <a href="https://my.fotomoto.com/store/5d5311c4f36c6201829e1376a2ebac0e3dd4841a">sell my photos</a>, powered by <a href="https://my.fotomoto.com/">Fotomoto</a>.</noscript><script type="text/javascript">"serviceWorker"in navigator&&(navigator.serviceWorker.register("/pwa-serviceworker.js",{scope:"https://sunpixel.photography/"}).then(function(e){}),navigator.serviceWorker.ready.then(function(e){}))</script></body></html>
