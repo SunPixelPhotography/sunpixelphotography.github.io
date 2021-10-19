@@ -144,8 +144,8 @@ if (newPath != location.href) location.href = newPath;</script><title>About Sun 
 	"isPartOf": {
 		"@id": "http://website.sunpixel.photography"
 	},
-	"datePublished": "2021-10-19T09:35:17.174Z",
-	"dateModified": "2021-10-19T09:35:17.174Z",
+	"datePublished": "2021-10-19T09:48:32.603Z",
+	"dateModified": "2021-10-19T09:48:32.603Z",
 	"inLanguage": {
 		"@type": "Language",
 		"name": "English",
@@ -256,19 +256,20 @@ if (newPath != location.href) location.href = newPath;</script><title>About Sun 
 				FOTOMOTO.API.getProducts(ftmtStoreID, 'ftmtHasProducts');
 			}
 			function ftmtHasProducts(ftmtProductsJson) {
-				console.log(`FTMT Has Products`);
-				ftmtProducts = ftmtProductsJson; //JSON.parse(ftmtProductsJson);
+				console.log(`FTMT Has Products:  ${JSON.stringify(ftmtProductsJson)}`);
+				ftmtProducts = ftmtProductsJson;
 				FOTOMOTO.API.getCaptions(ftmtStoreID, 'ftmtHasCaptions')
 			}
 			function ftmtHasCaptions(ftmtStoreCaptionsJson) {
-				console.log(`FTMT Has Captions`);
-				let ftmtCaptions = ftmtStoreCaptionsJson; //JSON.parse(ftmtStoreCaptionsJson);
+				console.log(`FTMT Has Captions:  ${JSON.stringify(ftmtStoreCaptionsJson)}`);
+				let ftmtCaptions = ftmtStoreCaptionsJson;
 				let ftmtHTML     = Object.keys(ftmtProducts).filter(key => key == true).map(key => {
 					if (key == FOTOMOTO.API.PRINT) { return `<button id="LFo_FotoMotoPrint" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.PRINT]}</button>` };
 					if (key == FOTOMOTO.API.CARD)  { return `<button id="LFo_FotoMotoCard" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.CARD]}</button>` };
 					if (key == FOTOMOTO.API.FILE)  { return `<button id="LFo_FotoMotoFile" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.FILE]}</button>` };
 					if (key == FOTOMOTO.API.ECARD) { return `<button id="LFo_FotoMotoECard" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.ECARD]}</button>` };
 				}).join();
+				console.log(`html:  ${ftmtHTML}`);
 				$('#LFo_FotoMotoButtons').html(ftmtHTML);
 			}
 			function waitForFotoMoto() {
