@@ -1,0 +1,14 @@
+{
+	"on"               : true,
+	"slug"             : "/about/",
+	"title"            : "About Sun Pixel Photography",
+	"description"      : "Sun Pixel Photography website is a showcase of one photo ethusiast and occasional traveller.",
+	"date"             : "2021-10-10T12:34:56",
+	"tags"             : ["sunpixel", "sun pixel"],
+	"amps"             : "",
+	"image"            : "=",
+	"breadcrumb_title" : "About",
+	"story" : {
+		"on"           : false
+	}
+}
