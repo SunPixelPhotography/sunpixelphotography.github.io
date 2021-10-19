@@ -9,23 +9,19 @@
 		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sunpixel.photography/search/</loc>
-		<lastmod>2021-10-19</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/</loc>
-		<lastmod>2021-10-19</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/</loc>
-		<lastmod>2021-10-19</lastmod>
-	</url>
-	<url>
 		<loc>https://sunpixel.photography/404/</loc>
 		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/amp/404/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/sitemap/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/amp/sitemap/</loc>
 		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
@@ -37,11 +33,15 @@
 		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sunpixel.photography/sitemap/</loc>
+		<loc>https://sunpixel.photography/</loc>
 		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sunpixel.photography/amp/sitemap/</loc>
+		<loc>https://sunpixel.photography/amp/</loc>
+		<lastmod>2021-10-19</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/search/</loc>
 		<lastmod>2021-10-19</lastmod>
 	</url>
 	<url>
