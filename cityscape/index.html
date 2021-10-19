@@ -318,10 +318,10 @@ $.each( $('.photoswipe-item'), function( key, value ) {
 					}
 					$.when(ftmtProductsLoader, ftmtCaptionsLoader).done(function(ftmtProducts, ftmtCaptions) {
 						ftmtButtonsOrder = { };
-						ftmtButtonsOrder[FOTOMOTO.API.PRINT] = 0;
-						ftmtButtonsOrder[FOTOMOTO.API.CARD]  = 1;
-						ftmtButtonsOrder[FOTOMOTO.API.FILE]  = 2;
-						ftmtButtonsOrder[FOTOMOTO.API.ECARD] = 3;
+						ftmtButtonsOrder[`${FOTOMOTO.API.PRINT}`] = 0;
+						ftmtButtonsOrder[`${FOTOMOTO.API.CARD}`]  = 1;
+						ftmtButtonsOrder[`${FOTOMOTO.API.FILE}`]  = 2;
+						ftmtButtonsOrder[`${FOTOMOTO.API.ECARD}`] = 3;
 
 						let ftmtHTML = Object.keys(ftmtProducts)
 							.filter(key => ftmtProducts[key] == true)
@@ -331,7 +331,7 @@ $.each( $('.photoswipe-item'), function( key, value ) {
 							.join('');
 						$('#LFo_FotoMotoButtons').html(`<h2 class="lfo-font-size-135" id="fotomoto">Prints &amp; Cards</h2>${ftmtHTML}<hr class="title mt-4" />`);
 						$('#LFo_FotoMotoButtons').on('click', 'button', function() { FOTOMOTO.API.showWindow(parseInt($(this).attr('data-ftmt-product')), 'LFo_FotoMotoPhoto'); });
-						$('#LFo_FotoMotoCheckout').on('click', function() { fFOTOMOTO.API.checkout(); });
+						$('#LFo_FotoMotoCheckout').on('click', function() { FOTOMOTO.API.checkout(); });
 					});
 				}
 

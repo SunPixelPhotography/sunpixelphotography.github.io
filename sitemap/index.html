@@ -134,8 +134,8 @@ if (newPath != location.href) location.href = newPath;</script><title>Sun Pixel 
 	"isPartOf": {
 		"@id": "http://website.sunpixel.photography"
 	},
-	"datePublished": "2021-10-19T13:00:04.084Z",
-	"dateModified": "2021-10-19T13:00:04.084Z",
+	"datePublished": "2021-10-19T13:10:19.869Z",
+	"dateModified": "2021-10-19T13:10:19.869Z",
 	"inLanguage": {
 		"@type": "Language",
 		"name": "English",
@@ -180,10 +180,10 @@ if (newPath != location.href) location.href = newPath;</script><title>Sun Pixel 
 					}
 					$.when(ftmtProductsLoader, ftmtCaptionsLoader).done(function(ftmtProducts, ftmtCaptions) {
 						ftmtButtonsOrder = { };
-						ftmtButtonsOrder[FOTOMOTO.API.PRINT] = 0;
-						ftmtButtonsOrder[FOTOMOTO.API.CARD]  = 1;
-						ftmtButtonsOrder[FOTOMOTO.API.FILE]  = 2;
-						ftmtButtonsOrder[FOTOMOTO.API.ECARD] = 3;
+						ftmtButtonsOrder[`${FOTOMOTO.API.PRINT}`] = 0;
+						ftmtButtonsOrder[`${FOTOMOTO.API.CARD}`]  = 1;
+						ftmtButtonsOrder[`${FOTOMOTO.API.FILE}`]  = 2;
+						ftmtButtonsOrder[`${FOTOMOTO.API.ECARD}`] = 3;
 
 						let ftmtHTML = Object.keys(ftmtProducts)
 							.filter(key => ftmtProducts[key] == true)
@@ -193,7 +193,7 @@ if (newPath != location.href) location.href = newPath;</script><title>Sun Pixel 
 							.join('');
 						$('#LFo_FotoMotoButtons').html(`<h2 class="lfo-font-size-135" id="fotomoto">Prints &amp; Cards</h2>${ftmtHTML}<hr class="title mt-4" />`);
 						$('#LFo_FotoMotoButtons').on('click', 'button', function() { FOTOMOTO.API.showWindow(parseInt($(this).attr('data-ftmt-product')), 'LFo_FotoMotoPhoto'); });
-						$('#LFo_FotoMotoCheckout').on('click', function() { fFOTOMOTO.API.checkout(); });
+						$('#LFo_FotoMotoCheckout').on('click', function() { FOTOMOTO.API.checkout(); });
 					});
 				}
 
