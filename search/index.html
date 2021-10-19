@@ -134,8 +134,8 @@ if (newPath != location.href) location.href = newPath;</script><title>Sun Pixel 
 	"isPartOf": {
 		"@id": "http://website.sunpixel.photography"
 	},
-	"datePublished": "2021-10-19T08:52:55.133Z",
-	"dateModified": "2021-10-19T08:52:55.133Z",
+	"datePublished": "2021-10-19T09:04:13.215Z",
+	"dateModified": "2021-10-19T09:04:13.215Z",
 	"inLanguage": {
 		"@type": "Language",
 		"name": "English",
@@ -169,14 +169,13 @@ if (newPath != location.href) location.href = newPath;</script><title>Sun Pixel 
 				return FOTOMOTO.API.isBasketEmpty();
 			}
 			function initFotoMoto() {
-//				$('#LFo_FotoMotoPrint').on('click', ftmtShow(FOTOMOTO.API.PRINT));
-//				$('#LFo_FotoMotoCard').on('click',  ftmtShow(FOTOMOTO.API.CARD));
-//				$('#LFo_FotoMotoFile').on('click',  ftmtShow(FOTOMOTO.API.FILE));
-//				$('#LFo_FotoMotoECard').on('click', ftmtShow(FOTOMOTO.API.ECARD));
-//				$('#LFo_FotoMotoCheckout').on('click', ftmtCheckout());
+				$('#LFo_FotoMotoPrint').on('click', function() { ftmtShow(FOTOMOTO.API.PRINT); });
+				$('#LFo_FotoMotoCard').on('click',  function() { ftmtShow(FOTOMOTO.API.CARD); });
+				$('#LFo_FotoMotoFile').on('click',  function() { ftmtShow(FOTOMOTO.API.FILE); });
+				$('#LFo_FotoMotoECard').on('click', function() { ftmtShow(FOTOMOTO.API.ECARD); });
+				$('#LFo_FotoMotoCheckout').on('click', function() { ftmtCheckout(); });
 
-//				FOTOMOTO.API.getStoreID('https://sunpixel.photography/search/', 'ftmtHasStoreID');
-				FOTOMOTO.API.getStoreID('sunpixel.photography', 'ftmtHasStoreID');
+				FOTOMOTO.API.getStoreID('https://sunpixel.photography/search/', 'ftmtHasStoreID');
 			}
 
 			function ftmtHasStoreID(storeID) {

@@ -331,14 +331,13 @@ $(document).ready( function() {
 				return FOTOMOTO.API.isBasketEmpty();
 			}
 			function initFotoMoto() {
-//				$('#LFo_FotoMotoPrint').on('click', ftmtShow(FOTOMOTO.API.PRINT));
-//				$('#LFo_FotoMotoCard').on('click',  ftmtShow(FOTOMOTO.API.CARD));
-//				$('#LFo_FotoMotoFile').on('click',  ftmtShow(FOTOMOTO.API.FILE));
-//				$('#LFo_FotoMotoECard').on('click', ftmtShow(FOTOMOTO.API.ECARD));
-//				$('#LFo_FotoMotoCheckout').on('click', ftmtCheckout());
+				$('#LFo_FotoMotoPrint').on('click', function() { ftmtShow(FOTOMOTO.API.PRINT); });
+				$('#LFo_FotoMotoCard').on('click',  function() { ftmtShow(FOTOMOTO.API.CARD); });
+				$('#LFo_FotoMotoFile').on('click',  function() { ftmtShow(FOTOMOTO.API.FILE); });
+				$('#LFo_FotoMotoECard').on('click', function() { ftmtShow(FOTOMOTO.API.ECARD); });
+				$('#LFo_FotoMotoCheckout').on('click', function() { ftmtCheckout(); });
 
-//				FOTOMOTO.API.getStoreID('https://sunpixel.photography/korcula-from-the-sea/', 'ftmtHasStoreID');
-				FOTOMOTO.API.getStoreID('sunpixel.photography', 'ftmtHasStoreID');
+				FOTOMOTO.API.getStoreID('https://sunpixel.photography/korcula-from-the-sea/', 'ftmtHasStoreID');
 			}
 
 			function ftmtHasStoreID(storeID) {
