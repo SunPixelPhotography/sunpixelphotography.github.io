@@ -354,7 +354,7 @@ $(document).ready( function() {
 						if (typeof FOTOMOTO !== "undefined"){
 							initFotoMoto();
 						} else {
-						setTimeout(waitForFotoMoto, 100);
+							setTimeout(waitForFotoMoto, 100);
 						}
 					}
 					waitForFotoMoto();
@@ -382,8 +382,9 @@ $(document).ready( function() {
 						FOTOMOTO.API.getStoreID('https://sunpixel.photography/tulips-in-keukenhof-2/', 'ftmtHasStoreID');
 					}
 
-					function ftmtHasStoreID(ftmtStoreID) {
-						console.log(`FTMT StoreID: ${ftmtStoreID}`);
+					function ftmtHasStoreID(storeID) {
+						console.log(`FTMT StoreID: ${storeID}`);
+						let ftmtStoreID = storeID;
 						FOTOMOTO.API.getProducts(ftmtStoreID, 'ftmtHasProducts');
 					}
 					function ftmtHasProducts(ftmtProductsJson) {

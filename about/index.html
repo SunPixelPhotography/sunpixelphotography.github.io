@@ -144,8 +144,8 @@ if (newPath != location.href) location.href = newPath;</script><title>About Sun 
 	"isPartOf": {
 		"@id": "http://website.sunpixel.photography"
 	},
-	"datePublished": "2021-10-19T02:02:59.231Z",
-	"dateModified": "2021-10-19T02:02:59.231Z",
+	"datePublished": "2021-10-19T02:11:40.887Z",
+	"dateModified": "2021-10-19T02:11:40.887Z",
 	"inLanguage": {
 		"@type": "Language",
 		"name": "English",
@@ -264,7 +264,7 @@ if (newPath != location.href) location.href = newPath;</script><title>About Sun 
 						if (typeof FOTOMOTO !== "undefined"){
 							initFotoMoto();
 						} else {
-						setTimeout(waitForFotoMoto, 100);
+							setTimeout(waitForFotoMoto, 100);
 						}
 					}
 					waitForFotoMoto();
@@ -292,8 +292,9 @@ if (newPath != location.href) location.href = newPath;</script><title>About Sun 
 						FOTOMOTO.API.getStoreID('https://sunpixel.photography/about/', 'ftmtHasStoreID');
 					}
 
-					function ftmtHasStoreID(ftmtStoreID) {
-						console.log(`FTMT StoreID: ${ftmtStoreID}`);
+					function ftmtHasStoreID(storeID) {
+						console.log(`FTMT StoreID: ${storeID}`);
+						let ftmtStoreID = storeID;
 						FOTOMOTO.API.getProducts(ftmtStoreID, 'ftmtHasProducts');
 					}
 					function ftmtHasProducts(ftmtProductsJson) {

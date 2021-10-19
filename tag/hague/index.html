@@ -144,8 +144,8 @@ if (newPath != location.href) location.href = newPath;</script><title>Site searc
 	"isPartOf": {
 		"@id": "http://website.sunpixel.photography"
 	},
-	"datePublished": "2021-10-19T02:02:59.245Z",
-	"dateModified": "2021-10-19T02:02:59.245Z",
+	"datePublished": "2021-10-19T02:11:40.875Z",
+	"dateModified": "2021-10-19T02:11:40.875Z",
 	"inLanguage": {
 		"@type": "Language",
 		"name": "English",
@@ -231,7 +231,7 @@ $.each( $('.photoswipe-item'), function( key, value ) {
 						if (typeof FOTOMOTO !== "undefined"){
 							initFotoMoto();
 						} else {
-						setTimeout(waitForFotoMoto, 100);
+							setTimeout(waitForFotoMoto, 100);
 						}
 					}
 					waitForFotoMoto();
@@ -259,8 +259,9 @@ $.each( $('.photoswipe-item'), function( key, value ) {
 						FOTOMOTO.API.getStoreID('https://sunpixel.photography/tag/hague/', 'ftmtHasStoreID');
 					}
 
-					function ftmtHasStoreID(ftmtStoreID) {
-						console.log(`FTMT StoreID: ${ftmtStoreID}`);
+					function ftmtHasStoreID(storeID) {
+						console.log(`FTMT StoreID: ${storeID}`);
+						let ftmtStoreID = storeID;
 						FOTOMOTO.API.getProducts(ftmtStoreID, 'ftmtHasProducts');
 					}
 					function ftmtHasProducts(ftmtProductsJson) {
