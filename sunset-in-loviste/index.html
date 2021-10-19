@@ -337,23 +337,22 @@ $(document).ready( function() {
 				$('#LFo_FotoMotoECard').on('click', function() { ftmtShow(FOTOMOTO.API.ECARD); });
 				$('#LFo_FotoMotoCheckout').on('click', function() { ftmtCheckout(); });
 
-				FOTOMOTO.API.getStoreID('https://sunpixel.photography/sunset-in-loviste/', 'ftmtHasStoreID');
+				FOTOMOTO.API.getStoreID('https://sunpixel.photography/', 'ftmtHasStoreID');
 			}
 
 			function ftmtHasStoreID(storeID) {
 				console.log(`FTMT StoreID: ${storeID}`);
 				ftmtStoreID = storeID;
-//				ftmtStoreID = '5d5311c4f36c6201829e1376a2ebac0e3dd4841a';
 				FOTOMOTO.API.getProducts(ftmtStoreID, 'ftmtHasProducts');
 			}
 			function ftmtHasProducts(ftmtProductsJson) {
 				console.log(`FTMT Has Products`);
-				ftmtProducts = JSON.parse(ftmtProductsJson);
+				ftmtProducts = ftmtProductsJson; //JSON.parse(ftmtProductsJson);
 				FOTOMOTO.API.getCaptions(ftmtStoreID, 'ftmtHasCaptions')
 			}
 			function ftmtHasCaptions(ftmtStoreCaptionsJson) {
 				console.log(`FTMT Has Captions`);
-				let ftmtCaptions = JSON.parse(ftmtStoreCaptionsJson);
+				let ftmtCaptions = ftmtStoreCaptionsJson; //JSON.parse(ftmtStoreCaptionsJson);
 				let ftmtHTML     = Object.keys(ftmtProducts).filter(key => key == true).map(key => {
 					if (key == FOTOMOTO.API.PRINT) { return `<button id="LFo_FotoMotoPrint" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.PRINT]}</button>` };
 					if (key == FOTOMOTO.API.CARD)  { return `<button id="LFo_FotoMotoCard" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.CARD]}</button>` };

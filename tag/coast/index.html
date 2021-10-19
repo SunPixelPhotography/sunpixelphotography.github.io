@@ -144,8 +144,8 @@ if (newPath != location.href) location.href = newPath;</script><title>Site searc
 	"isPartOf": {
 		"@id": "http://website.sunpixel.photography"
 	},
-	"datePublished": "2021-10-19T09:16:19.542Z",
-	"dateModified": "2021-10-19T09:16:19.542Z",
+	"datePublished": "2021-10-19T09:35:17.179Z",
+	"dateModified": "2021-10-19T09:35:17.179Z",
 	"inLanguage": {
 		"@type": "Language",
 		"name": "English",
@@ -214,23 +214,22 @@ $.each( $('.photoswipe-item'), function( key, value ) {
 				$('#LFo_FotoMotoECard').on('click', function() { ftmtShow(FOTOMOTO.API.ECARD); });
 				$('#LFo_FotoMotoCheckout').on('click', function() { ftmtCheckout(); });
 
-				FOTOMOTO.API.getStoreID('https://sunpixel.photography/tag/coast/', 'ftmtHasStoreID');
+				FOTOMOTO.API.getStoreID('https://sunpixel.photography/', 'ftmtHasStoreID');
 			}
 
 			function ftmtHasStoreID(storeID) {
 				console.log(`FTMT StoreID: ${storeID}`);
 				ftmtStoreID = storeID;
-//				ftmtStoreID = '5d5311c4f36c6201829e1376a2ebac0e3dd4841a';
 				FOTOMOTO.API.getProducts(ftmtStoreID, 'ftmtHasProducts');
 			}
 			function ftmtHasProducts(ftmtProductsJson) {
 				console.log(`FTMT Has Products`);
-				ftmtProducts = JSON.parse(ftmtProductsJson);
+				ftmtProducts = ftmtProductsJson; //JSON.parse(ftmtProductsJson);
 				FOTOMOTO.API.getCaptions(ftmtStoreID, 'ftmtHasCaptions')
 			}
 			function ftmtHasCaptions(ftmtStoreCaptionsJson) {
 				console.log(`FTMT Has Captions`);
-				let ftmtCaptions = JSON.parse(ftmtStoreCaptionsJson);
+				let ftmtCaptions = ftmtStoreCaptionsJson; //JSON.parse(ftmtStoreCaptionsJson);
 				let ftmtHTML     = Object.keys(ftmtProducts).filter(key => key == true).map(key => {
 					if (key == FOTOMOTO.API.PRINT) { return `<button id="LFo_FotoMotoPrint" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.PRINT]}</button>` };
 					if (key == FOTOMOTO.API.CARD)  { return `<button id="LFo_FotoMotoCard" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.CARD]}</button>` };
