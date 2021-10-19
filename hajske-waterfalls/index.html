@@ -349,6 +349,48 @@ $(document).ready( function() {
 				});
 
 				/**  FotoMoto  **/
+				function ftmtShow(ftmtType) {
+					console.log('show: ' + ftmtType);
+					FOTOMOTO.API.showWindow(ftmtType, 'LFo_FotoMotoPhoto');
+				}
+				function ftmtCheckout() {
+					FOTOMOTO.API.checkout();
+				}
+				function ftmtIsBasketEmpty() {
+					return FOTOMOTO.API.isBasketEmpty();
+				}
+				function initFotoMoto() {
+					$('#LFo_FotoMotoPrint').on('click', ftmtShow(FOTOMOTO.API.PRINT));
+					$('#LFo_FotoMotoCard').on('click',  ftmtShow(FOTOMOTO.API.CARD));
+					$('#LFo_FotoMotoFile').on('click',  ftmtShow(FOTOMOTO.API.FILE));
+					$('#LFo_FotoMotoECard').on('click', ftmtShow(FOTOMOTO.API.ECARD));
+					$('#LFo_FotoMotoCheckout').on('click', ftmtCheckout());
+
+					FOTOMOTO.API.getStoreID('https://sunpixel.photography/hajske-waterfalls/', 'ftmtHasStoreID');
+				}
+
+				function ftmtHasStoreID(storeID) {
+					console.log(`FTMT StoreID: ${storeID}`);
+					ftmtStoreID = storeID;
+					FOTOMOTO.API.getProducts(ftmtStoreID, 'ftmtHasProducts');
+				}
+				function ftmtHasProducts(ftmtProductsJson) {
+					console.log(`FTMT Has Products`);
+					ftmtProducts = JSON.parse(ftmtProductsJson);
+					FOTOMOTO.API.getCaptions(ftmtStoreID, 'ftmtHasCaptions')
+				}
+				function ftmtHasCaptions(ftmtStoreCaptionsJson) {
+					console.log(`FTMT Has Captions`);
+					let ftmtCaptions = JSON.parse(ftmtStoreCaptionsJson);
+					let ftmtHTML     = Object.keys(ftmtProducts).filter(key => key == true).map(key => {
+						if (key == FOTOMOTO.API.PRINT) return `<button id="LFo_FotoMotoPrint" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.PRINT]}</button>`;
+						if (key == FOTOMOTO.API.CARD)  return `<button id="LFo_FotoMotoCard" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.CARD]}</button>`;
+						if (key == FOTOMOTO.API.FILE)  return `<button id="LFo_FotoMotoFile" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.FILE]}</button>`;
+						if (key == FOTOMOTO.API.ECARD) return `<button id="LFo_FotoMotoECard" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.ECARD]}</button>`;
+					}).join();
+					$('#LFo_FotoMotoButtons').html(ftmtHTML);
+				}
+
 				if ($('#LFo_FotoMotoPhoto').length > 0) {
 					function waitForFotoMoto() {
 						if (typeof FOTOMOTO !== "undefined"){
@@ -358,50 +400,5 @@ $(document).ready( function() {
 						}
 					}
 					waitForFotoMoto();
-
-					function ftmtShow(ftmtType) {
-						console.log('show: ' + ftmtType);
-						FOTOMOTO.API.showWindow(ftmtType, 'LFo_FotoMotoPhoto');
-					}
-					function ftmtCheckout() {
-						FOTOMOTO.API.checkout();
-					}
-					function ftmtIsBasketEmpty() {
-						return FOTOMOTO.API.isBasketEmpty();
-					}
-
-					function initFotoMoto() {
-						console.log('fotomoto ready? ' + JSON.stringify(FOTOMOTO));
-
-						$('#LFo_FotoMotoPrint').on('click', ftmtShow(FOTOMOTO.API.PRINT));
-						$('#LFo_FotoMotoCard').on('click',  ftmtShow(FOTOMOTO.API.CARD));
-						$('#LFo_FotoMotoFile').on('click',  ftmtShow(FOTOMOTO.API.FILE));
-						$('#LFo_FotoMotoECard').on('click', ftmtShow(FOTOMOTO.API.ECARD));
-						$('#LFo_FotoMotoCheckout').on('click', ftmtCheckout());
-
-						FOTOMOTO.API.getStoreID('https://sunpixel.photography/hajske-waterfalls/', 'ftmtHasStoreID');
-					}
-
-					function ftmtHasStoreID(storeID) {
-						console.log(`FTMT StoreID: ${storeID}`);
-						let ftmtStoreID = storeID;
-						FOTOMOTO.API.getProducts(ftmtStoreID, 'ftmtHasProducts');
-					}
-					function ftmtHasProducts(ftmtProductsJson) {
-						console.log(`FTMT Has Products`);
-						let ftmtProducts = JSON.parse(ftmtProductsJson);
-						FOTOMOTO.API.getCaptions(ftmtStoreID, 'ftmtHasCaptions')
-					}
-					function ftmtHasCaptions(ftmtStoreCaptionsJson) {
-						console.log(`FTMT Has Captions`);
-						let ftmtCaptions = JSON.parse(ftmtStoreCaptionsJson);
-						let ftmtHTML     = Object.keys(ftmtProducts).filter(key => key == true).map(key => {
-							if (key == FOTOMOTO.API.PRINT) return `<button id="LFo_FotoMotoPrint" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.PRINT]}</button>`;
-							if (key == FOTOMOTO.API.CARD)  return `<button id="LFo_FotoMotoCard" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.CARD]}</button>`;
-							if (key == FOTOMOTO.API.FILE)  return `<button id="LFo_FotoMotoFile" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.FILE]}</button>`;
-							if (key == FOTOMOTO.API.ECARD) return `<button id="LFo_FotoMotoECard" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.ECARD]}</button>`;
-						}).join();
-						$('#LFo_FotoMotoButtons').html(ftmtHTML);
-					}
 				}
 			});</script><script defered type="text/javascript" src="//widget.fotomoto.com/stores/script/5d5311c4f36c6201829e1376a2ebac0e3dd4841a.js?api=true"></script><noscript>If Javascript is disabled in your browser, to place orders please visit the page where I <a href="https://my.fotomoto.com/store/5d5311c4f36c6201829e1376a2ebac0e3dd4841a">sell my photos</a>, powered by <a href="https://my.fotomoto.com/">Fotomoto</a>.</noscript><script type="text/javascript">"serviceWorker"in navigator&&(navigator.serviceWorker.register("/pwa-serviceworker.js",{scope:"https://sunpixel.photography/"}).then(function(e){}),navigator.serviceWorker.ready.then(function(e){}))</script></body></html>
