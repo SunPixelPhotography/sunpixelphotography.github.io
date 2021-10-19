@@ -144,8 +144,8 @@ if (newPath != location.href) location.href = newPath;</script><title>About Sun 
 	"isPartOf": {
 		"@id": "http://website.sunpixel.photography"
 	},
-	"datePublished": "2021-10-19T09:58:04.806Z",
-	"dateModified": "2021-10-19T09:58:04.806Z",
+	"datePublished": "2021-10-19T10:14:50.966Z",
+	"dateModified": "2021-10-19T10:14:50.966Z",
 	"inLanguage": {
 		"@type": "Language",
 		"name": "English",
@@ -229,6 +229,8 @@ if (newPath != location.href) location.href = newPath;</script><title>About Sun 
 			/**  FotoMoto  **/
 			var ftmtStoreID  = '';
 			var ftmtProducts = {};
+			ftmtProductsLoader = $.Deferred();
+			ftmtCaptionsLoader = $.Deferred();
 
 			function ftmtShow(ftmtType) {
 				console.log('show: ' + ftmtType);
@@ -253,7 +255,9 @@ if (newPath != location.href) location.href = newPath;</script><title>About Sun 
 			function ftmtHasStoreID(storeID) {
 				console.log(`FTMT StoreID: ${storeID}`);
 				ftmtStoreID = storeID;
-				FOTOMOTO.API.getProducts(ftmtStoreID, 'ftmtHasProducts');
+//				FOTOMOTO.API.getProducts(ftmtStoreID, 'ftmtHasProducts');
+				FOTOMOTO.API.getProducts(storeID, function(data) { ftmtProductsLoader.resolve(data); });
+				FOTOMOTO.API.getCaptions(storeID, function(data) { ftmtCaptionsLoader.resolve(data); });
 			}
 			function ftmtHasProducts(ftmtProductsJson) {
 				console.log(`FTMT Has Products:  ${JSON.stringify(ftmtProductsJson)}`);
@@ -268,9 +272,9 @@ if (newPath != location.href) location.href = newPath;</script><title>About Sun 
 					if (key == FOTOMOTO.API.CARD)  { return `<button id="LFo_FotoMotoCard" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.CARD]}</button>` };
 					if (key == FOTOMOTO.API.FILE)  { return `<button id="LFo_FotoMotoFile" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.FILE]}</button>` };
 					if (key == FOTOMOTO.API.ECARD) { return `<button id="LFo_FotoMotoECard" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.ECARD]}</button>` };
-				}).join();
+				}).join('');
 				console.log(`html:  ${ftmtHTML}`);
-				$('#LFo_FotoMotoButtons').html(ftmtHTML);
+				$('#LFo_FotoMotoButtons').html(`<h2 class="lfo-font-size-135" id="fotomoto">Prints &amp; Cards</h2>${ftmtHTML}<hr class="title mt-4" />`);
 			}
 			function waitForFotoMoto() {
 				if (typeof FOTOMOTO !== "undefined") {
@@ -279,6 +283,17 @@ if (newPath != location.href) location.href = newPath;</script><title>About Sun 
 					setTimeout(waitForFotoMoto, 100);
 				}
 			}
+			$.when(ftmtProductsLoader, ftmtCaptionsLoader).done(function(ftmtProducts, ftmtCaptions) {
+				console.log(`all load tasks done`);
+				let ftmtHTML = Object.keys(ftmtProducts).filter(key => ftmtProducts[key] == true).map(key => {
+					if (key == FOTOMOTO.API.PRINT) { return `<button id="LFo_FotoMotoPrint" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.PRINT]}</button>` };
+					if (key == FOTOMOTO.API.CARD)  { return `<button id="LFo_FotoMotoCard" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.CARD]}</button>` };
+					if (key == FOTOMOTO.API.FILE)  { return `<button id="LFo_FotoMotoFile" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.FILE]}</button>` };
+					if (key == FOTOMOTO.API.ECARD) { return `<button id="LFo_FotoMotoECard" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.ECARD]}</button>` };
+				}).join('');
+				console.log(`html:  ${ftmtHTML}`);
+				$('#LFo_FotoMotoButtons').html(`<h2 class="lfo-font-size-135" id="fotomoto">Prints &amp; Cards</h2>${ftmtHTML}<hr class="title mt-4" />`);
+			});
 
 			$(function() {
 				/**  FotoMoto  **/
