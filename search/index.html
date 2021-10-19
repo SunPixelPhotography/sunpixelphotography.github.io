@@ -134,8 +134,8 @@ if (newPath != location.href) location.href = newPath;</script><title>Sun Pixel 
 	"isPartOf": {
 		"@id": "http://website.sunpixel.photography"
 	},
-	"datePublished": "2021-10-19T13:10:19.496Z",
-	"dateModified": "2021-10-19T13:10:19.496Z",
+	"datePublished": "2021-10-19T13:21:52.315Z",
+	"dateModified": "2021-10-19T13:21:52.315Z",
 	"inLanguage": {
 		"@type": "Language",
 		"name": "English",
@@ -157,19 +157,13 @@ if (newPath != location.href) location.href = newPath;</script><title>Sun Pixel 
 			$(function() {
 				/**  FotoMoto  **/
 				if ($('#LFo_FotoMotoPhoto').length > 0) {
-					waitForFotoMoto();
-
 					ftmtProductsLoader = $.Deferred();
 					ftmtCaptionsLoader = $.Deferred();
 
+					waitForFotoMoto();
+
 					function ftmtIsBasketEmpty() {
 						return FOTOMOTO.API.isBasketEmpty();
-					}
-					function initFotoMoto() {
-						FOTOMOTO.API.getStoreID('https://sunpixel.photography/', function(storeID) {
-							FOTOMOTO.API.getProducts(storeID, function(data) { ftmtProductsLoader.resolve(data); });
-							FOTOMOTO.API.getCaptions(storeID, function(data) { ftmtCaptionsLoader.resolve(data); });
-						});
 					}
 					function waitForFotoMoto() {
 						if (typeof FOTOMOTO !== "undefined") {
@@ -178,8 +172,14 @@ if (newPath != location.href) location.href = newPath;</script><title>Sun Pixel 
 							setTimeout(waitForFotoMoto, 100);
 						}
 					}
+					function initFotoMoto() {
+						FOTOMOTO.API.getStoreID('https://sunpixel.photography/', function(storeID) {
+							FOTOMOTO.API.getProducts(storeID, function(data) { ftmtProductsLoader.resolve(data); });
+							FOTOMOTO.API.getCaptions(storeID, function(data) { ftmtCaptionsLoader.resolve(data); });
+						});
+					}
 					$.when(ftmtProductsLoader, ftmtCaptionsLoader).done(function(ftmtProducts, ftmtCaptions) {
-						ftmtButtonsOrder = { };
+						ftmtButtonsOrder = {};
 						ftmtButtonsOrder[`${FOTOMOTO.API.PRINT}`] = 0;
 						ftmtButtonsOrder[`${FOTOMOTO.API.CARD}`]  = 1;
 						ftmtButtonsOrder[`${FOTOMOTO.API.FILE}`]  = 2;
@@ -187,7 +187,7 @@ if (newPath != location.href) location.href = newPath;</script><title>Sun Pixel 
 
 						let ftmtHTML = Object.keys(ftmtProducts)
 							.filter(key => ftmtProducts[key] == true)
-							.map(key => { sort: ftmtButtonsOrder[key], html: `<button data-ftmt-product="${key}" class="btn btn-primary me-2">${ftmtCaptions[key]}</button>` } )
+							.map(function(key) { return { sort: ftmtButtonsOrder[key], html: `<button data-ftmt-product="${key}" class="btn btn-primary me-2">${ftmtCaptions[key]}</button>` }; })
 							.sort((a, b) => (a.sort > b.sort) ? 1 : ((b.sort > a.sort) ? -1 : 0))
 							.map(item => item.html)
 							.join('');
