@@ -144,8 +144,8 @@ if (newPath != location.href) location.href = newPath;</script><title>Site searc
 	"isPartOf": {
 		"@id": "http://website.sunpixel.photography"
 	},
-	"datePublished": "2021-10-19T09:48:32.617Z",
-	"dateModified": "2021-10-19T09:48:32.617Z",
+	"datePublished": "2021-10-19T09:58:04.806Z",
+	"dateModified": "2021-10-19T09:58:04.806Z",
 	"inLanguage": {
 		"@type": "Language",
 		"name": "English",
@@ -230,7 +230,7 @@ $.each( $('.photoswipe-item'), function( key, value ) {
 			function ftmtHasCaptions(ftmtStoreCaptionsJson) {
 				console.log(`FTMT Has Captions:  ${JSON.stringify(ftmtStoreCaptionsJson)}`);
 				let ftmtCaptions = ftmtStoreCaptionsJson;
-				let ftmtHTML     = Object.keys(ftmtProducts).filter(key => key == true).map(key => {
+				let ftmtHTML     = Object.keys(ftmtProducts).filter(key => ftmtProducts[key] == true).map(key => {
 					if (key == FOTOMOTO.API.PRINT) { return `<button id="LFo_FotoMotoPrint" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.PRINT]}</button>` };
 					if (key == FOTOMOTO.API.CARD)  { return `<button id="LFo_FotoMotoCard" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.CARD]}</button>` };
 					if (key == FOTOMOTO.API.FILE)  { return `<button id="LFo_FotoMotoFile" class="btn btn-primary me-2">${ftmtCaptions[FOTOMOTO.API.FILE]}</button>` };
