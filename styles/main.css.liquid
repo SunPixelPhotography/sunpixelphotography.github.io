@@ -5,5 +5,5 @@
 	eleventyExcludeFromCollections : true
 }
 ---
-{% include 'LFo/LFo.css.liquid', site: LFoSite %}
-{% include 'code/main.css.liquid' %}
+{% render 'LFo/LFo.css.liquid', isAMP: isAMP %}
+{% render 'code/main.css.liquid', isAMP: isAMP %}
