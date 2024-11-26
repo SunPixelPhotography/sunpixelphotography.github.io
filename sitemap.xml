@@ -1,68 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 	<url>
-		<loc>https://sunpixel.photography/rss.xml</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/sitemap_simple.xml</loc>
-		<lastmod>2024-11-10</lastmod>
+		<loc>https://sunpixel.photography/search/</loc>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/404/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/404/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/search/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/privacy/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/privacy/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/tag/art/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/tag/art/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/sitemap/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/sitemap/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/landscape/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/thumbs/landscape.Croatia.Ondic.earlyMorning-SunPixel-Photography.jpg</image:loc>
-			<image:title>Landscape</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/landscape/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/thumbs/landscape.Croatia.Ondic.earlyMorning-SunPixel-Photography.jpg</image:loc>
 			<image:title>Landscape</image:title>
@@ -70,55 +30,31 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/peljesac-coastline/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Peljesac.coastline-SunPixel-Photography.jpg</image:loc>
 			<image:title>Peljesac Coastline</image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://sunpixel.photography/amp/peljesac-coastline/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Peljesac.coastline-SunPixel-Photography.jpg</image:loc>
-			<image:title>Peljesac Coastline</image:title>
-		</image:image>
+		<loc>https://sunpixel.photography/tag/art/</loc>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/free-stock-photos/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/free-stock-photos/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/free-stock-photos/2/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/free-stock-photos/2/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/free-stock-photos/3/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/free-stock-photos/3/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/korcula-from-the-sea/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/cityscape.Croatia.Korcula.oldTownFromTheSea-SunPixel-Photography.jpg</image:loc>
-			<image:title>Old Town Korcula From The Sea</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/korcula-from-the-sea/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/cityscape.Croatia.Korcula.oldTownFromTheSea-SunPixel-Photography.jpg</image:loc>
 			<image:title>Old Town Korcula From The Sea</image:title>
@@ -126,15 +62,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/mermaid-statue-podgora/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/art.Croatia.Podgora.mermaidStatueBW-SunPixel-Photography.jpg</image:loc>
-			<image:title>Mermaid Statue In Podgora</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/mermaid-statue-podgora/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/art.Croatia.Podgora.mermaidStatueBW-SunPixel-Photography.jpg</image:loc>
 			<image:title>Mermaid Statue In Podgora</image:title>
@@ -142,15 +70,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/chain-bridge-budapest/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/cityscape.Hungary.Budapest.ChainBridge-SunPixel-Photography.jpg</image:loc>
-			<image:title>Chain Bridge in Budapest</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/chain-bridge-budapest/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/cityscape.Hungary.Budapest.ChainBridge-SunPixel-Photography.jpg</image:loc>
 			<image:title>Chain Bridge in Budapest</image:title>
@@ -158,15 +78,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/hungarian-parliament-building-budapest/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/cityscape.Hungary.Budapest.HungarianParliamentBuilding-SunPixel-Photography.jpg</image:loc>
-			<image:title>Hungarian Parliament</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/hungarian-parliament-building-budapest/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/cityscape.Hungary.Budapest.HungarianParliamentBuilding-SunPixel-Photography.jpg</image:loc>
 			<image:title>Hungarian Parliament</image:title>
@@ -174,15 +86,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/stone-houses-stari-grad/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/cityscape.Croatia.Hvar.stoneHousesStariGrad-SunPixel-Photography.jpg</image:loc>
-			<image:title>Stone Houses in Stari Grad</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/stone-houses-stari-grad/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/cityscape.Croatia.Hvar.stoneHousesStariGrad-SunPixel-Photography.jpg</image:loc>
 			<image:title>Stone Houses in Stari Grad</image:title>
@@ -190,15 +94,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/peace-palace-hague/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/cityscape.Netherlands.Haag.PeacePalace-SunPixel-Photography.jpg</image:loc>
-			<image:title>Peace Palace In Hague</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/peace-palace-hague/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/cityscape.Netherlands.Haag.PeacePalace-SunPixel-Photography.jpg</image:loc>
 			<image:title>Peace Palace In Hague</image:title>
@@ -206,15 +102,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/early-morning-ondic/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/landscape.Croatia.Ondic.earlyMorning-SunPixel-Photography.jpg</image:loc>
-			<image:title>Fog Curtains in Early Morning</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/early-morning-ondic/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/landscape.Croatia.Ondic.earlyMorning-SunPixel-Photography.jpg</image:loc>
 			<image:title>Fog Curtains in Early Morning</image:title>
@@ -222,15 +110,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/church-at-dusk-trogir/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/landscape.Croatia.Trogir.churchAtDusk-SunPixel-Photography.jpg</image:loc>
-			<image:title>Dusk Over Small Church Tower</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/church-at-dusk-trogir/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/landscape.Croatia.Trogir.churchAtDusk-SunPixel-Photography.jpg</image:loc>
 			<image:title>Dusk Over Small Church Tower</image:title>
@@ -238,15 +118,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/dawn-somewhere-on-the-road/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/landscape.Hungary.dawnSomewhereOnTheRoad-SunPixel-Photography.jpg</image:loc>
-			<image:title>Dawn Somewhere On The Road</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/dawn-somewhere-on-the-road/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/landscape.Hungary.dawnSomewhereOnTheRoad-SunPixel-Photography.jpg</image:loc>
 			<image:title>Dawn Somewhere On The Road</image:title>
@@ -254,15 +126,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/high-tatras-slovakia/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/landscape.Slovakia.HighTatras-SunPixel-Photography.jpg</image:loc>
-			<image:title>High Tatras In Slovakia</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/high-tatras-slovakia/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/landscape.Slovakia.HighTatras-SunPixel-Photography.jpg</image:loc>
 			<image:title>High Tatras In Slovakia</image:title>
@@ -270,15 +134,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/lavender-field-hvar/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/nature.Croatia.Hvar.abandonedLavenderField-SunPixel-Photography.jpg</image:loc>
-			<image:title>Abandoned Lavender Field</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/lavender-field-hvar/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/nature.Croatia.Hvar.abandonedLavenderField-SunPixel-Photography.jpg</image:loc>
 			<image:title>Abandoned Lavender Field</image:title>
@@ -286,15 +142,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/butterfly/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/nature.Croatia.Pula.butterfly-SunPixel-Photography.jpg</image:loc>
-			<image:title>Butterfly</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/butterfly/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/nature.Croatia.Pula.butterfly-SunPixel-Photography.jpg</image:loc>
 			<image:title>Butterfly</image:title>
@@ -302,15 +150,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/daffodils-in-keukenhof/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/nature.Netherlands.Keukenhof.daffodils-SunPixel-Photography.jpg</image:loc>
-			<image:title>Daffodils In Keukenhof</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/daffodils-in-keukenhof/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/nature.Netherlands.Keukenhof.daffodils-SunPixel-Photography.jpg</image:loc>
 			<image:title>Daffodils In Keukenhof</image:title>
@@ -318,15 +158,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/dark-tulip/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/nature.Netherlands.Keukenhof.darkTulip-SunPixel-Photography.jpg</image:loc>
-			<image:title>Dark Tulip</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/dark-tulip/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/nature.Netherlands.Keukenhof.darkTulip-SunPixel-Photography.jpg</image:loc>
 			<image:title>Dark Tulip</image:title>
@@ -334,15 +166,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/tulips-in-keukenhof/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/nature.Netherlands.Keukenhof.tulips.1-SunPixel-Photography.jpg</image:loc>
-			<image:title>Tulips In Keukenhof</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/tulips-in-keukenhof/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/nature.Netherlands.Keukenhof.tulips.1-SunPixel-Photography.jpg</image:loc>
 			<image:title>Tulips In Keukenhof</image:title>
@@ -350,15 +174,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/tulips-in-keukenhof-2/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/nature.Netherlands.Keukenhof.tulips.2-SunPixel-Photography.jpg</image:loc>
-			<image:title>Tulips In Keukenhof vol.2</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/tulips-in-keukenhof-2/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/nature.Netherlands.Keukenhof.tulips.2-SunPixel-Photography.jpg</image:loc>
 			<image:title>Tulips In Keukenhof vol.2</image:title>
@@ -366,15 +182,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/hajske-waterfalls/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/nature.Slovakia.HajskeWaterfalls-SunPixel-Photography.jpg</image:loc>
-			<image:title>Hajske Waterfalls in Slovakia</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/hajske-waterfalls/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/nature.Slovakia.HajskeWaterfalls-SunPixel-Photography.jpg</image:loc>
 			<image:title>Hajske Waterfalls in Slovakia</image:title>
@@ -382,15 +190,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/hajske-waterfalls-vol.2/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/nature.Slovakia.HajskeWaterfalls.2-SunPixel-Photography.jpg</image:loc>
-			<image:title>Hajske Waterfalls in Slovakia</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/hajske-waterfalls-vol.2/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/nature.Slovakia.HajskeWaterfalls.2-SunPixel-Photography.jpg</image:loc>
 			<image:title>Hajske Waterfalls in Slovakia</image:title>
@@ -398,15 +198,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/summertime-equipment/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/people.summerTimeEquipment-SunPixel-Photography.jpg</image:loc>
-			<image:title>Summertime Equipment</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/summertime-equipment/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/people.summerTimeEquipment-SunPixel-Photography.jpg</image:loc>
 			<image:title>Summertime Equipment</image:title>
@@ -414,15 +206,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/iconic-brela-stone/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Brela.iconicStone-SunPixel-Photography.jpg</image:loc>
-			<image:title>Iconic Brela Stone</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/iconic-brela-stone/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Brela.iconicStone-SunPixel-Photography.jpg</image:loc>
 			<image:title>Iconic Brela Stone</image:title>
@@ -430,15 +214,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/pearl-of-makarska-riviera/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Brela.pearlOfMakarskaRiviera-SunPixel-Photography.jpg</image:loc>
-			<image:title>Pearl Of Makarska Riviera</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/pearl-of-makarska-riviera/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Brela.pearlOfMakarskaRiviera-SunPixel-Photography.jpg</image:loc>
 			<image:title>Pearl Of Makarska Riviera</image:title>
@@ -446,15 +222,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/sunset-in-fazana/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Fazana.sunset-SunPixel-Photography.jpg</image:loc>
-			<image:title>Sunset In Fazana</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/sunset-in-fazana/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Fazana.sunset-SunPixel-Photography.jpg</image:loc>
 			<image:title>Sunset In Fazana</image:title>
@@ -462,15 +230,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/sunset-in-fazana-2/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Fazana.sunset.2-SunPixel-Photography.jpg</image:loc>
-			<image:title>Sunset In Fazana no.2</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/sunset-in-fazana-2/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Fazana.sunset.2-SunPixel-Photography.jpg</image:loc>
 			<image:title>Sunset In Fazana no.2</image:title>
@@ -478,15 +238,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/sunset-and-fisherman/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Fazana.sunsetAndFisherman-SunPixel-Photography.jpg</image:loc>
-			<image:title>Sunset And Fisherman</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/sunset-and-fisherman/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Fazana.sunsetAndFisherman-SunPixel-Photography.jpg</image:loc>
 			<image:title>Sunset And Fisherman</image:title>
@@ -494,15 +246,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/sunset-and-fisherman-2/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Fazana.sunsetAndFisherman.2-SunPixel-Photography.jpg</image:loc>
-			<image:title>Sunset And Fisherman 2</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/sunset-and-fisherman-2/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Fazana.sunsetAndFisherman.2-SunPixel-Photography.jpg</image:loc>
 			<image:title>Sunset And Fisherman 2</image:title>
@@ -510,15 +254,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/sunset-and-stone-troll/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Fazana.sunsetAndStoneTroll-SunPixel-Photography.jpg</image:loc>
-			<image:title>Sunset And Stone Troll</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/sunset-and-stone-troll/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Fazana.sunsetAndStoneTroll-SunPixel-Photography.jpg</image:loc>
 			<image:title>Sunset And Stone Troll</image:title>
@@ -526,15 +262,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/hvar-coastline/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Hvar.coastLine-SunPixel-Photography.jpg</image:loc>
-			<image:title>Hvar Coastline</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/hvar-coastline/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Hvar.coastLine-SunPixel-Photography.jpg</image:loc>
 			<image:title>Hvar Coastline</image:title>
@@ -542,15 +270,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/sea-mole-on-hvar/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Hvar.seaMole-SunPixel-Photography.jpg</image:loc>
-			<image:title>Sea Mole Hvarska Luka</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/sea-mole-on-hvar/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Hvar.seaMole-SunPixel-Photography.jpg</image:loc>
 			<image:title>Sea Mole Hvarska Luka</image:title>
@@ -558,15 +278,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/sea-mole-in-loviste/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Loviste.seaMole-SunPixel-Photography.jpg</image:loc>
-			<image:title>Sea Mole in Loviste</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/sea-mole-in-loviste/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Loviste.seaMole-SunPixel-Photography.jpg</image:loc>
 			<image:title>Sea Mole in Loviste</image:title>
@@ -574,15 +286,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/moon-rising-in-loviste/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Loviste.moonRising-SunPixel-Photography.jpg</image:loc>
-			<image:title>Moon Rising in Loviste</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/moon-rising-in-loviste/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Loviste.moonRising-SunPixel-Photography.jpg</image:loc>
 			<image:title>Moon Rising in Loviste</image:title>
@@ -590,15 +294,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/sunset-in-loviste/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Loviste.sunset-SunPixel-Photography.jpg</image:loc>
-			<image:title>Sunset in Loviste</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/sunset-in-loviste/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Loviste.sunset-SunPixel-Photography.jpg</image:loc>
 			<image:title>Sunset in Loviste</image:title>
@@ -606,15 +302,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/sea-brick-troll/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Podgora.seaBrickTroll-SunPixel-Photography.jpg</image:loc>
-			<image:title>Sea Brick Troll</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/sea-brick-troll/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Podgora.seaBrickTroll-SunPixel-Photography.jpg</image:loc>
 			<image:title>Sea Brick Troll</image:title>
@@ -622,15 +310,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/dusk-over-dalmatia/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Podgora.duskOverDalmatia-SunPixel-Photography.jpg</image:loc>
-			<image:title>Dusk Over Dalmatia</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/dusk-over-dalmatia/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Podgora.duskOverDalmatia-SunPixel-Photography.jpg</image:loc>
 			<image:title>Dusk Over Dalmatia</image:title>
@@ -638,15 +318,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/orange-sunset-in-podgora/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Podgora.orangeSunset-SunPixel-Photography.jpg</image:loc>
-			<image:title>Orange Sunset In Podgora</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/orange-sunset-in-podgora/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Podgora.orangeSunset-SunPixel-Photography.jpg</image:loc>
 			<image:title>Orange Sunset In Podgora</image:title>
@@ -654,15 +326,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/sun-rolling-downhill/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Podgora.SunRollingDownhill-SunPixel-Photography.jpg</image:loc>
-			<image:title>Sun Rolling Down The Hill</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/sun-rolling-downhill/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Podgora.SunRollingDownhill-SunPixel-Photography.jpg</image:loc>
 			<image:title>Sun Rolling Down The Hill</image:title>
@@ -670,15 +334,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/sail-between-rocks/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Podgora.sailBetweenRocks-SunPixel-Photography.jpg</image:loc>
-			<image:title>Sail Between Rocks</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/sail-between-rocks/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Podgora.sailBetweenRocks-SunPixel-Photography.jpg</image:loc>
 			<image:title>Sail Between Rocks</image:title>
@@ -686,15 +342,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/sailing-on-calm-sea/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Podgora.sailingOnCalmSea-SunPixel-Photography.jpg</image:loc>
-			<image:title>Sailing On Calm Sea</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/sailing-on-calm-sea/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Podgora.sailingOnCalmSea-SunPixel-Photography.jpg</image:loc>
 			<image:title>Sailing On Calm Sea</image:title>
@@ -702,15 +350,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/mermaid-statue-at-sunset/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Podgora.MermaidStatueAtSunset-SunPixel-Photography.jpg</image:loc>
-			<image:title>Statue of the Mermaid in Podgora at Sunset</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/mermaid-statue-at-sunset/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Podgora.MermaidStatueAtSunset-SunPixel-Photography.jpg</image:loc>
 			<image:title>Statue of the Mermaid in Podgora at Sunset</image:title>
@@ -718,15 +358,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/sunset-and-waves/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Podgora.sunsetAndWaves-SunPixel-Photography.jpg</image:loc>
-			<image:title>Sunset And Waves</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/sunset-and-waves/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Croatia.Podgora.sunsetAndWaves-SunPixel-Photography.jpg</image:loc>
 			<image:title>Sunset And Waves</image:title>
@@ -734,15 +366,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/road-to-beach-in-nordwijk/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/seascape.Netherlands.Noordwijk.roadToTheBeach-SunPixel-Photography.jpg</image:loc>
-			<image:title>Road To The Beach In Nordwijk</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/road-to-beach-in-nordwijk/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/seascape.Netherlands.Noordwijk.roadToTheBeach-SunPixel-Photography.jpg</image:loc>
 			<image:title>Road To The Beach In Nordwijk</image:title>
@@ -750,15 +374,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/sunflower-window/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/stillife.Slovakia.Vyhne.sunflowerWindow-SunPixel-Photography.jpg</image:loc>
-			<image:title>Sunflower Window</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/sunflower-window/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/stillife.Slovakia.Vyhne.sunflowerWindow-SunPixel-Photography.jpg</image:loc>
 			<image:title>Sunflower Window</image:title>
@@ -766,15 +382,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/window-in-olive-oil-museum/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/screen/stilllife.Croatia.Brac.Skrip.OliveOilMuseum-SunPixel-Photography.jpg</image:loc>
-			<image:title>Window In Olive Oil Museum</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/window-in-olive-oil-museum/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/screen/stilllife.Croatia.Brac.Skrip.OliveOilMuseum-SunPixel-Photography.jpg</image:loc>
 			<image:title>Window In Olive Oil Museum</image:title>
@@ -782,15 +390,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/seascape/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/thumbs/seascape.Croatia.Podgora.MermaidStatueAtSunset-SunPixel-Photography.jpg</image:loc>
-			<image:title>Seascape</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/seascape/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/thumbs/seascape.Croatia.Podgora.MermaidStatueAtSunset-SunPixel-Photography.jpg</image:loc>
 			<image:title>Seascape</image:title>
@@ -798,15 +398,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/cityscape/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/thumbs/cityscape.Hungary.Budapest.HungarianParliamentBuilding-SunPixel-Photography.jpg</image:loc>
-			<image:title>Cityscape</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/cityscape/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/thumbs/cityscape.Hungary.Budapest.HungarianParliamentBuilding-SunPixel-Photography.jpg</image:loc>
 			<image:title>Cityscape</image:title>
@@ -814,15 +406,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/nature/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/thumbs/nature.Croatia.Hvar.abandonedLavenderField-SunPixel-Photography.jpg</image:loc>
-			<image:title>Nature</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/nature/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/thumbs/nature.Croatia.Hvar.abandonedLavenderField-SunPixel-Photography.jpg</image:loc>
 			<image:title>Nature</image:title>
@@ -830,15 +414,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/art/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/media/categories/art.jpg</image:loc>
-			<image:title>Art</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/art/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/media/categories/art.jpg</image:loc>
 			<image:title>Art</image:title>
@@ -846,15 +422,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/night/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/media/categories/night.jpg</image:loc>
-			<image:title>Night</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/night/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/media/categories/night.jpg</image:loc>
 			<image:title>Night</image:title>
@@ -862,15 +430,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/black-and-white/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/thumbs/cityscape.Croatia.Hvar.stoneHousesStariGrad-SunPixel-Photography.jpg</image:loc>
-			<image:title>Black &amp; White</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/black-and-white/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/thumbs/cityscape.Croatia.Hvar.stoneHousesStariGrad-SunPixel-Photography.jpg</image:loc>
 			<image:title>Black &amp; White</image:title>
@@ -878,15 +438,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/macro/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/thumbs/nature.Croatia.Pula.butterfly-SunPixel-Photography.jpg</image:loc>
-			<image:title>Macro</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/macro/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/thumbs/nature.Croatia.Pula.butterfly-SunPixel-Photography.jpg</image:loc>
 			<image:title>Macro</image:title>
@@ -894,15 +446,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/people/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/photos/thumbs/people.summerTimeEquipment-SunPixel-Photography.jpg</image:loc>
-			<image:title>People</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/people/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/photos/thumbs/people.summerTimeEquipment-SunPixel-Photography.jpg</image:loc>
 			<image:title>People</image:title>
@@ -910,15 +454,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/still-life/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/media/categories/stilllife.jpg</image:loc>
-			<image:title>Still Life</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/still-life/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/media/categories/stilllife.jpg</image:loc>
 			<image:title>Still Life</image:title>
@@ -926,15 +462,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/about/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/media/posts/about.webp</image:loc>
-			<image:title>About Sun Pixel Photography</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/about/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/media/posts/about.webp</image:loc>
 			<image:title>About Sun Pixel Photography</image:title>
@@ -942,15 +470,7 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/free-stock-photos-announcement/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://sunpixel.photography/media/posts/free-stock-photos-announcement.webp</image:loc>
-			<image:title>Free Stock Photos Available</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/free-stock-photos-announcement/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://sunpixel.photography/media/posts/free-stock-photos-announcement.webp</image:loc>
 			<image:title>Free Stock Photos Available</image:title>
@@ -958,26 +478,306 @@
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/blog/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/blog/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/blog/2022-01/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://sunpixel.photography/amp/blog/2022-01/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://sunpixel.photography/blog/2021-10/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
-		<loc>https://sunpixel.photography/amp/blog/2021-10/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<loc>https://sunpixel.photography/tag/beach/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/brac/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/brela/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/brick/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/bridge/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/budapest/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/buildings/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/butterfly/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/city/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/clouds/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/coast/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/coastline/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/croatia/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/daffodils/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/dawn/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/dusk/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/field/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/flowers/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/fog/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/free/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/free-photos/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/free-stock/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/garden/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/haag/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/hague/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/historical/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/holland/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/hungary/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/hvar/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/keukenhof/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/korcula/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/lavender/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/loviste/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/marco-polo/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/mediterranean/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/mermaid/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/moon/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/morning/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/mountains/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/netherlands/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/night/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/noordwijk/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/ondic/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/palace/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/peljesac/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/pier/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/podgora/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/rock/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sail/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sea/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sea-mole/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/ship/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/shore/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sky/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/slovak-karst/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/slovakia/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/statue/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/stone/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/summer/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sun/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sun-pixel/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sunflower/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sunpixel/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/sunset/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/town/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/troll/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/tulips/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/vacation/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/vyhne/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/water/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/waterfalls/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/waves/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://sunpixel.photography/tag/window/</loc>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 </urlset>
